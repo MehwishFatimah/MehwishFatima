@@ -5,7 +5,7 @@ Doctoral Student working on Cross-lingual Abstractive Summarization
 **Research Interests:** Natural Language Processing (NLP) | Machine Learning (ML) |<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep Learning (DL) <br>
 **Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [mehwish.fatima@h-its.org](mehwish.fatima@h-its.org) | [mehwishfatima.raja@gmail.com](mehwishfatima.raja@gmail.com)<br>
-**LinkedIn:** &nbsp;[www.linkedin.com/in/mehwishfatima-677b74176](www.linkedin.com/in/mehwishfatima-677b74176)<br>
+**LinkedIn:** &nbsp;[www.linkedin.com/in/mehwish-fatima-raja](www.linkedin.com/in/mehwish-fatima-raja)<br>
 **Github** &nbsp; &nbsp; &nbsp;[https://github.com/MehwishFatimah](https://github.com/MehwishFatimah)<br>
 
 ## Bio
