@@ -3,7 +3,7 @@
 Doctoral Student working on Cross-lingual Abstractive Summarization
 
 **Research Interests:** Natural Language Processing (NLP) | Machine Learning (ML) |<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Deep Learning (DL) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep Learning (DL) <br>
 **Email:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [mehwish.fatima@h-its.org](mehwish.fatima@h-its.org) | [mehwishfatima.raja@gmail.com](mehwishfatima.raja@gmail.com)<br>
 **LinkedIn:** &nbsp;[www.linkedin.com/in/mehwishfatima-677b74176](www.linkedin.com/in/mehwishfatima-677b74176)<br>
 **Github** &nbsp; &nbsp; &nbsp;[https://github.com/MehwishFatimah](https://github.com/MehwishFatimah)<br>
@@ -36,9 +36,9 @@ CGPA: 3.83/ 4.00 (Gold medalist)  
 COMSATS University Islamabad (CUI), Lahore Campus, Pakistan<br> 
 Taught Courses: Data Structures and Algorithms (Java/ C++) | Object Oriented Programming (Java) | Fundamentals of Computer Programming (C++) | Human Computer Interaction 
 
-**Visiting Lecturer**<br> 
-02.2012 - 06.2012<br>  
-University of Education, Lahore<br>  
+**Visiting Lecturer**<br>
+02.2012 - 06.2012<br>
+University of Education, Lahore<br>
 Taught Course: Distributed Databases<br> 
 
 **Lab Instructor**<br> 
@@ -76,9 +76,9 @@ Natural Language Engineering | Information Processing & Management
 NVIDIA DLI Certificate – Building Transformer-Based Natural Language Processing Applications
 
 **Co-supervisor**<br>
-Gender Identification for Urdu language<br> 
-Author Identification for Urdu Language<br>  
-Author Profiling Methods for Multilingual Text<br>  
+Gender Identification for Urdu language<br>
+Author Identification for Urdu Language<br>
+Author Profiling Methods for Multilingual Text<br>
 Cross Genre Author Profiling Using Semantic Tagger Based Approach
 
 **Co-organizer**<br>
