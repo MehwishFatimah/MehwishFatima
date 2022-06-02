@@ -48,7 +48,7 @@ Taught Course: Fundamentals of Computer Programming (Scratch, C++ with Graphics)
 
 ## Publications
 **2021**<br>
-A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization (Submitted)
+A Novel Wikipedia based Dataset for Monolingual and Cross-lingual Summarization 
 
 **2019**<br>
 HITS-SBD at the FinSBD Task: Machine Learning vs. Rule-based Sentence Boundary Detection
@@ -70,10 +70,11 @@ An empirical evaluation of lightweight random walk-based routing protocol in dut
 
 ## Other Activities
 **Reviewer**<br> 
-Natural Language Engineering | Information Processing & Management
+Natural Language Engineering | Information Processing & Management | ICIC 2021 | LREC 2022
 
 **Certifications**<br>
 NVIDIA DLI Certificate – Building Transformer-Based Natural Language Processing Applications
+Information Security by Lawpilots
 
 **Co-supervisor**<br>
 Gender Identification for Urdu language<br>
